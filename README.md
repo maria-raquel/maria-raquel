@@ -1,1 +1,1 @@
-- Meu nome é Maria Raquel, sou aluna de graduação em Ciência de Dados e Inteligência Artificial na UFPB
+aluna de graduação em Ciência de Dados e Inteligência Artificial na UFPB.
